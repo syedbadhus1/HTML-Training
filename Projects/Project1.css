@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.wrapper {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+.row1 {
+color: #c0bab6;
+background: #333333;
+}
+#header1 {
+    margin: 0 auto;
+}
