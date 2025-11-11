@@ -15,4 +15,21 @@ background: #333333;
 #header1 {
     margin: 0 auto;
     width: 960px;
+    padding: 20PX 0;
+    overflow: auto;
 }
+#header1 #hgroup {
+    float: left;
+    margin: 0 0 20px 0;
+}
+#header1 #hgroup h1 {
+    font-size: 32px;
+    font-weight: normal;
+    font-style: normal;
+  text-decoration: none;
+   }
+ #hgroup h1 a {
+  color: #c0bab6;
+  background-color: #333333;
+  text-decoration: none;
+}  
