@@ -1,6 +1,13 @@
 *{
     margin: 0;
 }
+
+body {
+  font-size: 13px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #919191;
+  background-color: #232323;
+}
 .wrapper {
     display: block;
     width: 100%;
