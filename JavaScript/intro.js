@@ -16,6 +16,10 @@ console.log (home)
 // document.getElementById("test").innerHTML = age
 // alert(name)
 
-alert(name)
-confirm("Confirm type of Alert is working")
-prompt("Enter your name")
+// alert(name)
+// confirm("Confirm type of Alert is working")
+// prompt("Enter your name")
+
+var myinput = confirm ("Are you driving car now")
+// console.log(myinput)
+document.writeln(myinput)
