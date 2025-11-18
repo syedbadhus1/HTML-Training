@@ -12,4 +12,10 @@ console.log (whitehair)
 console.log (taste)
 console.log (home)
 
-document.writeln (name)
+// document.writeln (name)
+// document.getElementById("test").innerHTML = age
+// alert(name)
+
+alert(name)
+confirm("Confirm type of Alert is working")
+prompt("Enter your name")
